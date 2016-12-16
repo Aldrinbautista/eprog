@@ -5,7 +5,7 @@ main(){
 	int celsius;
 	int Fahrenheit;
 	
-	printf("Enter the value for celsius:");
-	scanf("%d", &celsius);
-	printf("%d", Fahrenheit=(celsius*9/5)+32);
+	printf("Enter the value for Fahrenheit:");
+	scanf("%d", &Fahrenheit);
+	printf("%d", celsius=(Fahrenheit-32)*5/9);
 }
