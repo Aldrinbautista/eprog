@@ -6,7 +6,7 @@ int main(){
 	scanf("%d", & month);
 	printf(" enter the day number(1-7):");
 	scanf("%d", & day);
-	if(month==1);{
+	if(month==1){
 	printf("jan");
 	}
 
