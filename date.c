@@ -7,23 +7,23 @@ int main(){
 	printf(" enter the day number(1-7):");
 	scanf("%d", & day);
 	if(month==1){
-	printf("jan");
+	printf("january");
 	}
 
 	
 	if (month==2){
-	printf("feb");
+	printf("febrary");
 }
 	
 	
 	if(month==3){
-	printf("mar");
+	printf("march");
 	}
 	
 	
 	
 	if(month==4){
-	printf("apr");
+	printf("april");
 }
 	
 	
@@ -33,7 +33,7 @@ int main(){
 	
 	
 		if(month==6){
-		printf("jun");
+		printf("june");
 	}
 	
 	if(month==7){
@@ -41,47 +41,47 @@ int main(){
 }
 	
 		if(month==8){
-		printf("aug");
+		printf("august");
 		}
 
 		if(month==9){
-		printf("sep");
+		printf("september");
 	}
 	
 	
 		if(month==10){
-		printf("oct");
+		printf("october");
 	}
 		
 	
 		if(month==11){
-		printf("nov");
+		printf("november");
 	}
 	
 	
 		if(month==12){
-		printf("dec");
+		printf("december");
 	}
 	
 	if(day==1){
-	printf("sun");
+	printf("sunday");
 }
 	if(day==2){
-	printf("mon");
+	printf("monday");
 }
 	if(day==3){
-	printf("teus");
+	printf("teusday");
 }
 	if(day==4){
-		printf("wed");
+		printf("wednesday");
 	}
 	if(day==5){
-		printf("thurs");
+		printf("thursday");
 }
 	if(day==6){
-		printf("fri");
+		printf("friday");
 	}
 	if(day==7){
-		printf("sat");
+		printf("saturday");
 	}
 }
